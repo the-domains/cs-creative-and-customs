@@ -17,3 +17,7 @@ navigation:
     url: 2016-07-08-soul.html
     name: SOUL
     type: content
+  - id: 3e52f08b-f4ad-4dd3-80fa-9041dba41842
+    url: 2016-07-08-solid.html
+    name: SOLID
+    type: content
