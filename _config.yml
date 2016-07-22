@@ -21,10 +21,6 @@ navigation:
     url: 2016-07-08-solid.html
     name: SOLID
     type: content
-  - id: 3cd3eb59-959e-4251-9935-2e1d53f4fac6
-    url: 2016-07-21-fluid.html
-    name: Fluid
-    type: content
   - id: 4b79a561-0afb-4629-a32d-c9f1befce4c2
     url: 2016-07-12-structure.html
     name: STRUCTURE
