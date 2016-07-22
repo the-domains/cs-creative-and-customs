@@ -1,7 +1,7 @@
 ---
 description: 'Santa Fe, NM'
-dateModified: '2016-07-20T19:10:53.318Z'
-datePublished: '2016-07-21T22:37:40.913Z'
+dateModified: '2016-07-22T17:00:41.939Z'
+datePublished: '2016-07-22T17:00:42.591Z'
 title: STRUCTURE
 author: []
 sourcePath: _posts/2016-07-12-structure.md
