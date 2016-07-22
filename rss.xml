@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CS Creative and Customs]]></title>
+        <description><![CDATA[CS Creative and Customs]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Jul 2016 17:48:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cottonwood Skyscape]]></title>
+            <description><![CDATA[<article><h1>Cottonwood Skyscape</h1><p>The Milky Way above Northern Nevada.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c94a79441f1061a478e666f02805f9be/croprotate?cropheight=715&cropwidth=1496&degrees=0&input=https%3A%2F%2Fdrscdn.500px.org%2Fphoto%2F39584694%2Fq%253D80_m%253D2000%2F12e51d7a48a96880e2d9c908b88e7401&x=0&y=0"></article>]]></description>
+            <link>https://500px.com/photo/39584694/cottonwood-skyscape-by-chris-swabb?ctx_page=1&amp;from=user&amp;user_id=502772</link>
+            <guid isPermaLink="false">8c715400-8634-4d1b-924d-581e225a506c</guid>
+            <pubDate>Fri, 22 Jul 2016 17:48:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
