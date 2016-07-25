@@ -1,31 +1,27 @@
 layout_spectrum: 0.6442376326303929
-typography_spectrum: 0.6505567044951022
+typography_spectrum: 0.7047007409855723
 color:
-  brandStrength: 0.47137286071665585
-  lightness: 0.7863075295463204
-  saturation: 0.13055465673096478
-  rhythmicContrast: 0.10854667308740318
+  brandStrength: 0.7687571914866567
+  lightness: 0.8113996533211321
+  saturation: 0.5030334005132318
+  rhythmicContrast: 0.6961887972429395
   brandColors:
-    - '#73603D'
-    - '#BF8A49'
-    - '#F2CA80'
-    - '#5E5A59'
-    - '#0D0D0D'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: CS Creative and Customs
 navigation:
   - id: c0a8db94-88c1-428c-bbbe-ea79d87c9460
-    url: 2016-07-08-soul.html
     name: SOUL
     type: content
   - id: 3e52f08b-f4ad-4dd3-80fa-9041dba41842
-    url: 2016-07-08-solid.html
     name: SOLID
     type: content
   - id: 4b79a561-0afb-4629-a32d-c9f1befce4c2
-    url: 2016-07-12-structure.html
     name: STRUCTURE
     type: content
   - id: 3cd3eb59-959e-4251-9935-2e1d53f4fac6
-    url: 2016-07-21-fluid.html
     name: FLUID
     type: content
