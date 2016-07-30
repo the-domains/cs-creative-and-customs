@@ -1,9 +1,19 @@
-layout_spectrum: 0.6442376326303929
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.7047007409855723
 color:
-  brandStrength: 0.7687571914866567
-  lightness: 0.8113996533211321
   saturation: 0.5030334005132318
+  brandStrength: 0.7687571914866567
   rhythmicContrast: 0.6961887972429395
   brandColors:
     - '#FFFFFF'
@@ -11,7 +21,7 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-name: CS Creative and Customs
+  lightness: 0.8113996533211321
 navigation:
   - id: c0a8db94-88c1-428c-bbbe-ea79d87c9460
     name: SOUL
@@ -25,3 +35,5 @@ navigation:
   - id: 3cd3eb59-959e-4251-9935-2e1d53f4fac6
     name: FLUID
     type: content
+layout_spectrum: 0.476817
+name: CS Creative and Customs
