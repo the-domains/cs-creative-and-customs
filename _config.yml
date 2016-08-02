@@ -23,17 +23,14 @@ color:
   rhythmicContrast: 0.6961888
 typography_spectrum: 0.7047007409855723
 navigation:
-  - id: c0a8db94-88c1-428c-bbbe-ea79d87c9460
-    name: SOUL
+  - name: SOUL
+    id: c0a8db94-88c1-428c-bbbe-ea79d87c9460
     type: content
-  - id: 3e52f08b-f4ad-4dd3-80fa-9041dba41842
-    name: SOLID
+  - name: SOLID
+    id: 3e52f08b-f4ad-4dd3-80fa-9041dba41842
     type: content
-  - id: 4b79a561-0afb-4629-a32d-c9f1befce4c2
-    name: STRUCTURE
-    type: content
-  - id: 3cd3eb59-959e-4251-9935-2e1d53f4fac6
-    name: FLUID
+  - name: STRUCTURE
+    id: 4b79a561-0afb-4629-a32d-c9f1befce4c2
     type: content
 layout_spectrum: 0.264411
 name: CS Creative and Customs
