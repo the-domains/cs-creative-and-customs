@@ -32,5 +32,8 @@ navigation:
   - name: STRUCTURE
     id: 4b79a561-0afb-4629-a32d-c9f1befce4c2
     type: content
+  - name: FLUID
+    id: 3cd3eb59-959e-4251-9935-2e1d53f4fac6
+    type: content
 layout_spectrum: 0.264411
 name: CS Creative and Customs
