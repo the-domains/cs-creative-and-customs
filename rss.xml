@@ -4,8 +4,15 @@
         <description><![CDATA[CS Creative and Customs]]></description>
         <link>https://thegrid.ai/cs-creative-and-customs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 22:28:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 22:28:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cs-creative-and-customs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Shack in Blue]]></title>
+            <description><![CDATA[<article><h1>The Shack in Blue</h1><p>Windansea, CA</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3b1e46eab75cbba6ba0aa38d49197aa6/croprotate.jpg?cropheight=2698&cropwidth=4847&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F34bf589d-6f7b-432d-b747-18b10bdfb8c8.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/cs-creative-and-customs/the-shack-in-blue/index.html</link>
+            <guid isPermaLink="false">66d5bcc1-7d63-4f82-bbda-5a1c7523bb55</guid>
+            <pubDate>Tue, 02 Aug 2016 22:28:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/11b7d451-dc3f-43c1-801c-553fee9a0171.jpg" alt="Mooring Station">]]></description>
@@ -68,13 +75,6 @@
             <link>https://500px.com/photo/57902580/my-bonnie-lass-by-chris-swabb?ctx_page=1&amp;from=user&amp;user_id=502772</link>
             <guid isPermaLink="false">23a1fd9b-a63b-4a1c-9e86-d8db87537a21</guid>
             <pubDate>Fri, 22 Jul 2016 17:48:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cottonwood Skyscape]]></title>
-            <description><![CDATA[<article><h1>Cottonwood Skyscape</h1><p>The Milky Way above Northern Nevada.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c94a79441f1061a478e666f02805f9be/croprotate?cropheight=715&cropwidth=1496&degrees=0&input=https%3A%2F%2Fdrscdn.500px.org%2Fphoto%2F39584694%2Fq%253D80_m%253D2000%2F12e51d7a48a96880e2d9c908b88e7401&x=0&y=0"></article>]]></description>
-            <link>https://500px.com/photo/39584694/cottonwood-skyscape-by-chris-swabb?ctx_page=1&amp;from=user&amp;user_id=502772</link>
-            <guid isPermaLink="false">8c715400-8634-4d1b-924d-581e225a506c</guid>
-            <pubDate>Fri, 22 Jul 2016 17:48:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
