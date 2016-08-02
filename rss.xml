@@ -4,8 +4,15 @@
         <description><![CDATA[CS Creative and Customs]]></description>
         <link>https://thegrid.ai/cs-creative-and-customs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 22:28:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 22:28:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cs-creative-and-customs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Narrows]]></title>
+            <description><![CDATA[<article><h1>The Narrows</h1><p>Zion National Park</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75fff36b-f315-42f0-bf3f-144c0fe499e3.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/75fff36b-f315-42f0-bf3f-144c0fe499e3.jpg</link>
+            <guid isPermaLink="false">7346a4f4-dc3b-4109-875f-bc5482a08255</guid>
+            <pubDate>Tue, 02 Aug 2016 22:28:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Shack in Blue]]></title>
             <description><![CDATA[<article><h1>The Shack in Blue</h1><p>Windansea, CA</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3b1e46eab75cbba6ba0aa38d49197aa6/croprotate.jpg?cropheight=2698&cropwidth=4847&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F34bf589d-6f7b-432d-b747-18b10bdfb8c8.jpg&x=0&y=0"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://500px.com/photo/72661529/aspen-copse-by-chris-swabb?ctx_page=1&amp;from=user&amp;user_id=502772</link>
             <guid isPermaLink="false">272de271-d277-425c-8a9a-e07e1bb19881</guid>
             <pubDate>Fri, 22 Jul 2016 17:48:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Bonnie Lass]]></title>
-            <description><![CDATA[<article><h1>My Bonnie Lass</h1><p>Windansea, CA Low Tide</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/99becac6bbf343055262ba0170e4b063/croprotate?cropheight=1120&cropwidth=1680&degrees=0&input=https%3A%2F%2Fdrscdn.500px.org%2Fphoto%2F57902580%2Fq%253D80_m%253D2000%2F803d979e3f9e3d78919a7b52f253f1b1&x=0&y=0"></article>]]></description>
-            <link>https://500px.com/photo/57902580/my-bonnie-lass-by-chris-swabb?ctx_page=1&amp;from=user&amp;user_id=502772</link>
-            <guid isPermaLink="false">23a1fd9b-a63b-4a1c-9e86-d8db87537a21</guid>
-            <pubDate>Fri, 22 Jul 2016 17:48:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
