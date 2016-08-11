@@ -4,15 +4,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.5297505
 color:
   saturation: 0.5030334
-  brandStrength: 0.3082707
+  brandStrength: 0
   lightness: 0
   brandColors:
     - '#FFFFFF'
@@ -21,7 +22,6 @@ color:
     - '#4D4D4D'
     - '#333333'
   rhythmicContrast: 0.6961888
-typography_spectrum: 0.7047007409855723
 navigation:
   - name: SOUL
     id: c0a8db94-88c1-428c-bbbe-ea79d87c9460
@@ -35,5 +35,5 @@ navigation:
   - name: FLUID
     id: 3cd3eb59-959e-4251-9935-2e1d53f4fac6
     type: content
-layout_spectrum: 0.264411
+layout_spectrum: 0.1535509
 name: CS Creative and Customs
