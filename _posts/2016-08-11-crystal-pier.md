@@ -1,17 +1,25 @@
 ---
-dateModified: '2016-08-11T04:17:52.775Z'
-author: []
-via: {}
-title: Crystal Pier
-publisher: {}
-description: ''
-datePublished: '2016-08-11T04:18:19.296Z'
-starred: false
-sourcePath: _posts/2016-08-11-crystal-pier.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-08-17T16:48:48.278Z'
+dateModified: '2016-08-17T16:48:37.184Z'
+author: []
+via: {}
+title: Crystal Pier
+sourcePath: _posts/2016-08-11-crystal-pier.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+_type: Blurb
 
 ---
 # Crystal Pier
