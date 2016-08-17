@@ -1,3 +1,7 @@
+name: CS Creative and Customs
+favicon: null
+layout_spectrum: 0.50557
+typography_spectrum: 0.09926
 collections:
   - index:
       path: /
@@ -10,18 +14,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.5297505
-color:
-  saturation: 0.5030334
-  brandStrength: 0
-  lightness: 0
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  rhythmicContrast: 0.6961888
 navigation:
   - name: SOUL
     id: c0a8db94-88c1-428c-bbbe-ea79d87c9460
@@ -35,5 +27,27 @@ navigation:
   - name: FLUID
     id: 3cd3eb59-959e-4251-9935-2e1d53f4fac6
     type: content
-layout_spectrum: 0.1535509
-name: CS Creative and Customs
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0
+  lightness: 0
+  saturation: 0.5030334
+  rhythmicContrast: 0.25
+purpose: []
