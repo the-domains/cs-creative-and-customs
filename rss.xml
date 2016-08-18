@@ -4,7 +4,7 @@
         <description><![CDATA[CS Creative and Customs]]></description>
         <link>https://thegrid.ai/cs-creative-and-customs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 16:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 16:20:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cs-creative-and-customs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/cs-creative-and-customs/df680420-006f-4429-b3ac-fe2a0d6aa7d6/index.html</link>
             <guid isPermaLink="false">df680420-006f-4429-b3ac-fe2a0d6aa7d6</guid>
             <pubDate>Tue, 02 Aug 2016 22:55:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c31bf83f-2707-4606-a496-9f42a0698b8c.jpg">]]></description>
+            <link>https://thegrid.ai/cs-creative-and-customs/strike/index.html</link>
+            <guid isPermaLink="false">0cd8b849-14ea-4601-8b41-b0177fc7376a</guid>
+            <pubDate>Thu, 18 Aug 2016 16:20:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cs-creative-and-customs/birds-eye/index.html</link>
             <guid isPermaLink="false">9802a1a8-c2e7-4272-a33d-dd79aa9c31b4</guid>
             <pubDate>Tue, 02 Aug 2016 22:54:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef84460d-699d-4915-8d40-019add640c55.jpg">]]></description>
-            <link>https://thegrid.ai/cs-creative-and-customs/b35c1223-ae4a-4e0d-b6d1-eb3db9823570/index.html</link>
-            <guid isPermaLink="false">b35c1223-ae4a-4e0d-b6d1-eb3db9823570</guid>
-            <pubDate>Tue, 02 Aug 2016 22:30:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
