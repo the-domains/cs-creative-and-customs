@@ -2,21 +2,23 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-17T16:48:48.278Z'
-dateModified: '2016-08-17T16:48:37.184Z'
-author: []
+datePublished: '2016-08-18T16:09:37.659Z'
+dateModified: '2016-08-17T17:29:08.082Z'
+author:
+  - name: ''
+    url: ''
 via: {}
 title: Crystal Pier
 sourcePath: _posts/2016-08-11-crystal-pier.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
 _type: Blurb
