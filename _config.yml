@@ -1,6 +1,6 @@
 name: CS Creative and Customs
 favicon: null
-layout_spectrum: 0.5052
+layout_spectrum: 0.60474
 typography_spectrum: 0.10823
 collections:
   - index:
@@ -49,5 +49,5 @@ color:
   brandStrength: 1
   lightness: 0
   saturation: 0.5030334
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0
 purpose: []
