@@ -1,19 +1,31 @@
-name: CS Creative and Customs
-favicon: null
-layout_spectrum: 0.60474
-typography_spectrum: 0.10823
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+color:
+  saturation: 0.5030334
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  rhythmicContrast: 0
+cta:
+  bucket: null
+  version: null
+  domain: null
 navigation:
   - name: SOUL
     id: c0a8db94-88c1-428c-bbbe-ea79d87c9460
@@ -27,27 +39,15 @@ navigation:
   - name: FLUID
     id: 3cd3eb59-959e-4251-9935-2e1d53f4fac6
     type: content
-cta:
-  domain: null
-  bucket: null
-  version: null
+favicon: null
+name: CS Creative and Customs
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  brandStrength: 1
-  lightness: 0
-  saturation: 0.5030334
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.04011194
+layout_spectrum: 0.3689366
