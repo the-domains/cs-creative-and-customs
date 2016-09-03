@@ -4,7 +4,7 @@
         <description><![CDATA[CS Creative and Customs]]></description>
         <link>https://thegrid.ai/cs-creative-and-customs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 18:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 18:09:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cs-creative-and-customs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/cs-creative-and-customs/df680420-006f-4429-b3ac-fe2a0d6aa7d6/index.html</link>
             <guid isPermaLink="false">df680420-006f-4429-b3ac-fe2a0d6aa7d6</guid>
             <pubDate>Wed, 31 Aug 2016 18:08:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bird's Eye]]></title>
+            <description><![CDATA[<article><h1>Bird's Eye</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b569aff-b22c-4faa-adff-235bc4a00dd8.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b569aff-b22c-4faa-adff-235bc4a00dd8.jpg</link>
+            <guid isPermaLink="false">9802a1a8-c2e7-4272-a33d-dd79aa9c31b4</guid>
+            <pubDate>Wed, 31 Aug 2016 18:09:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/cs-creative-and-customs/little-point-at-neptune/index.html</link>
             <guid isPermaLink="false">41681726-a175-4a34-97bb-ef1aefaec0d2</guid>
             <pubDate>Thu, 18 Aug 2016 16:09:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f98f0796-8ebd-4869-8124-6eefe9c30181.jpg">]]></description>
-            <link>https://thegrid.ai/cs-creative-and-customs/314ffd18-e172-442f-95be-6e2b3a6b3a0d/index.html</link>
-            <guid isPermaLink="false">314ffd18-e172-442f-95be-6e2b3a6b3a0d</guid>
-            <pubDate>Wed, 17 Aug 2016 18:07:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
