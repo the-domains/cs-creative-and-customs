@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: Mooring Station
-datePublished: '2016-08-18T16:15:57.728Z'
-dateModified: '2016-08-18T16:15:49.824Z'
+datePublished: '2016-08-31T18:17:41.197Z'
+dateModified: '2016-08-31T18:17:40.732Z'
 author:
   - name: ''
     url: ''
@@ -16,12 +16,8 @@ via: {}
 title: ''
 sourcePath: _posts/2016-08-02-mooring-station.md
 authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
-starred: false
+publisher: {}
+starred: true
 _context: 'http://schema.org'
 _type: Article
 
