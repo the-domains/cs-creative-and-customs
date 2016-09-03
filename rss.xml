@@ -4,7 +4,7 @@
         <description><![CDATA[CS Creative and Customs]]></description>
         <link>https://thegrid.ai/cs-creative-and-customs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 18:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 18:33:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cs-creative-and-customs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,6 +33,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/34bf589d-6f7b-432d-b747-18b10bdfb8c8.jpg</link>
             <guid isPermaLink="false">66d5bcc1-7d63-4f82-bbda-5a1c7523bb55</guid>
             <pubDate>Thu, 18 Aug 2016 16:15:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6efdb8c1-94c1-4061-bd7e-b868c0e9278d.jpg" alt="" title="" />]]></description>
+            <link>https://thegrid.ai/cs-creative-and-customs/little-point-at-neptune/index.html</link>
+            <guid isPermaLink="false">41681726-a175-4a34-97bb-ef1aefaec0d2</guid>
+            <pubDate>Thu, 18 Aug 2016 16:09:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
